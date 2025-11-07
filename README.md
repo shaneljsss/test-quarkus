@@ -1,1 +1,3 @@
 # test-quarkus
+
+This program will create a quarkus application that runs and except commands via api to perform task on individual repositories. The task are git clone, git checkout new branch, perform a version change to the repository... 
